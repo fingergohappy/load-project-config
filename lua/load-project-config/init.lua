@@ -2,7 +2,7 @@ local config = require("load-project-config/config")
 
 local M =  {}
 
-M.set_up = config.set_up
+M.setup = config.setup
 
 
 return M

@@ -7,7 +7,7 @@ M.defaults = {
 }
 
 M.options = {}
-M.set_up = function(options)
+M.setup = function(options)
     M.options = vim.tbl_deep_extend("force", M.defaults, options or {})
     require("load-project-config/load-custom-command").init()
 end
