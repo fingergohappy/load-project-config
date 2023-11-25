@@ -1,13 +1,13 @@
 # LOAD-PROJECT-CONFIG
 
 `load-project-config` is a plugin that can load neovim config in your projects.
-Project path config by (project.nvim)[https://github.com/ahmedkhalf/project.nvim],or by command `vim.fn.getcwd()`
+Project path config by [project.nvim](https://github.com/ahmedkhalf/project.nvim),or by command `vim.fn.getcwd()`
 
 
 # Requirements
 
 - Neovim >= 0.5.0
-- (project.nvim)[https://github.com/ahmedkhalf/project.nvim]
+- [project.nvim](https://github.com/ahmedkhalf/project.nvim)
 
 # Features
 
@@ -15,7 +15,7 @@ This plugin will load custom command in your project path.
 
 # Installation
 
-(Lazy)[https://github.com/folke/lazy.nvim]
+[Lazy](https://github.com/folke/lazy.nvim)
 
 ```lua
 {
