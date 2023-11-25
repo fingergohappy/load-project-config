@@ -15,7 +15,7 @@ This plugin will load custom command in your project path.
 
 # Installation
 
-[Lazy](https://github.com/folke/lazy.nvim)
+[lazy.vim](https://github.com/folke/lazy.nvim)
 
 ```lua
 {
